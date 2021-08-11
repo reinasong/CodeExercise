@@ -1,0 +1,1472 @@
+Year,Month,Sensor_Name,Count,Rank
+2009,August,Town Hall (West),1050461,1.0
+2009,August,Bourke Street Mall (South),847853,2.0
+2009,August,Melbourne Central,827432,3.0
+2009,August,Flinders Street Station Underpass,721539,4.0
+2009,August,Princes Bridge,700272,5.0
+2009,August,Bourke Street Mall (North),560625,6.0
+2009,August,Flagstaff Station,540355,7.0
+2009,August,State Library,539908,8.0
+2009,August,Australia on Collins,489810,9.0
+2009,August,Collins Place (South),326793,10.0
+2009,December,Town Hall (West),1198678,1.0
+2009,December,Bourke Street Mall (South),1022298,2.0
+2009,December,Bourke Street Mall (North),841261,3.0
+2009,December,Melbourne Central,795765,4.0
+2009,December,Flinders Street Station Underpass,777770,5.0
+2009,December,Princes Bridge,705360,6.0
+2009,December,Australia on Collins,551491,7.0
+2009,December,Flagstaff Station,470939,8.0
+2009,December,State Library,459247,9.0
+2009,December,Collins Place (South),316187,10.0
+2009,July,Town Hall (West),1110075,1.0
+2009,July,Bourke Street Mall (South),877690,2.0
+2009,July,Melbourne Central,826210,3.0
+2009,July,Flinders Street Station Underpass,757096,4.0
+2009,July,Princes Bridge,743246,5.0
+2009,July,Bourke Street Mall (North),610587,6.0
+2009,July,Flagstaff Station,562069,7.0
+2009,July,Australia on Collins,530208,8.0
+2009,July,State Library,525256,9.0
+2009,July,Collins Place (South),346578,10.0
+2009,June,Town Hall (West),1009857,1.0
+2009,June,Bourke Street Mall (North),801945,2.0
+2009,June,Melbourne Central,740878,3.0
+2009,June,Flinders Street Station Underpass,674285,4.0
+2009,June,Princes Bridge,635352,5.0
+2009,June,Bourke Street Mall (South),593036,6.0
+2009,June,Flagstaff Station,527632,7.0
+2009,June,Australia on Collins,484893,8.0
+2009,June,State Library,466171,9.0
+2009,June,Collins Place (South),327694,10.0
+2009,May,Town Hall (West),1095125,1.0
+2009,May,Bourke Street Mall (North),842470,2.0
+2009,May,Flinders Street Station Underpass,729966,3.0
+2009,May,Princes Bridge,711896,4.0
+2009,May,Bourke Street Mall (South),628472,5.0
+2009,May,State Library,570028,6.0
+2009,May,Flagstaff Station,538822,7.0
+2009,May,Australia on Collins,521101,8.0
+2009,May,Melbourne Central,347366,9.0
+2009,May,Collins Place (South),337352,10.0
+2009,November,Town Hall (West),1075112,1.0
+2009,November,Bourke Street Mall (South),819881,2.0
+2009,November,Melbourne Central,793497,3.0
+2009,November,Flinders Street Station Underpass,731875,4.0
+2009,November,Bourke Street Mall (North),706073,5.0
+2009,November,Princes Bridge,700342,6.0
+2009,November,Flagstaff Station,503682,7.0
+2009,November,Australia on Collins,497652,8.0
+2009,November,State Library,481941,9.0
+2009,November,Collins Place (South),326776,10.0
+2009,October,Town Hall (West),1058684,1.0
+2009,October,Bourke Street Mall (South),866911,2.0
+2009,October,Flinders Street Station Underpass,748989,3.0
+2009,October,Princes Bridge,725048,4.0
+2009,October,Melbourne Central,724329,5.0
+2009,October,Bourke Street Mall (North),568757,6.0
+2009,October,State Library,560199,7.0
+2009,October,Flagstaff Station,551139,8.0
+2009,October,Australia on Collins,511023,9.0
+2009,October,Collins Place (South),349472,10.0
+2009,September,Town Hall (West),1017890,1.0
+2009,September,Bourke Street Mall (South),836776,2.0
+2009,September,Melbourne Central,780036,3.0
+2009,September,Flinders Street Station Underpass,700836,4.0
+2009,September,Princes Bridge,699272,5.0
+2009,September,Flagstaff Station,545023,6.0
+2009,September,Bourke Street Mall (North),532613,7.0
+2009,September,State Library,518451,8.0
+2009,September,Australia on Collins,481442,9.0
+2009,September,Collins Place (South),334670,10.0
+2010,April,Town Hall (West),1111326,1.0
+2010,April,Melbourne Central,837419,2.0
+2010,April,Bourke Street Mall (South),779147,3.0
+2010,April,Princes Bridge,743949,4.0
+2010,April,Flinders Street Station Underpass,709573,5.0
+2010,April,Bourke Street Mall (North),584322,6.0
+2010,April,State Library,545050,7.0
+2010,April,Australia on Collins,513211,8.0
+2010,April,Flagstaff Station,487441,9.0
+2010,April,Collins Place (South),319625,10.0
+2010,August,Town Hall (West),1036046,1.0
+2010,August,Melbourne Central,781308,2.0
+2010,August,Bourke Street Mall (South),750070,3.0
+2010,August,Flinders Street Station Underpass,723723,4.0
+2010,August,Princes Bridge,630601,5.0
+2010,August,Bourke Street Mall (North),610958,6.0
+2010,August,Flagstaff Station,556535,7.0
+2010,August,State Library,510291,8.0
+2010,August,Australia on Collins,506910,9.0
+2010,August,Collins Place (South),339983,10.0
+2010,December,Town Hall (West),1232520,1.0
+2010,December,Bourke Street Mall (South),1192427,2.0
+2010,December,Flinders Street Station Underpass,847734,3.0
+2010,December,Melbourne Central,780191,4.0
+2010,December,Princes Bridge,620999,5.0
+2010,December,Australia on Collins,588052,6.0
+2010,December,State Library,474262,7.0
+2010,December,Flagstaff Station,468864,8.0
+2010,December,Collins Place (South),337140,9.0
+2010,December,Sandridge Bridge,262484,10.0
+2010,February,Town Hall (West),948404,1.0
+2010,February,Melbourne Central,715260,2.0
+2010,February,Bourke Street Mall (South),712874,3.0
+2010,February,Flinders Street Station Underpass,676841,4.0
+2010,February,Princes Bridge,676447,5.0
+2010,February,Bourke Street Mall (North),557650,6.0
+2010,February,Flagstaff Station,517041,7.0
+2010,February,Australia on Collins,473198,8.0
+2010,February,State Library,453229,9.0
+2010,February,Collins Place (South),319189,10.0
+2010,January,Town Hall (West),1046480,1.0
+2010,January,Bourke Street Mall (South),780024,2.0
+2010,January,Princes Bridge,705279,3.0
+2010,January,Melbourne Central,703179,4.0
+2010,January,Flinders Street Station Underpass,689157,5.0
+2010,January,Bourke Street Mall (North),582056,6.0
+2010,January,Australia on Collins,463533,7.0
+2010,January,State Library,407403,8.0
+2010,January,Flagstaff Station,390248,9.0
+2010,January,Collins Place (South),266250,10.0
+2010,July,Town Hall (West),1104454,1.0
+2010,July,Melbourne Central,825843,2.0
+2010,July,Bourke Street Mall (South),807012,3.0
+2010,July,Flinders Street Station Underpass,755116,4.0
+2010,July,Princes Bridge,688388,5.0
+2010,July,Bourke Street Mall (North),615352,6.0
+2010,July,Australia on Collins,551681,7.0
+2010,July,Flagstaff Station,529577,8.0
+2010,July,State Library,520724,9.0
+2010,July,Collins Place (South),348096,10.0
+2010,June,Town Hall (West),965356,1.0
+2010,June,Bourke Street Mall (South),765273,2.0
+2010,June,Melbourne Central,717588,3.0
+2010,June,Flinders Street Station Underpass,670965,4.0
+2010,June,Princes Bridge,612191,5.0
+2010,June,Flagstaff Station,521372,6.0
+2010,June,Bourke Street Mall (North),518089,7.0
+2010,June,Australia on Collins,480399,8.0
+2010,June,State Library,439415,9.0
+2010,June,Collins Place (South),319880,10.0
+2010,March,Town Hall (West),1145962,1.0
+2010,March,Melbourne Central,908894,2.0
+2010,March,Princes Bridge,823435,3.0
+2010,March,Bourke Street Mall (South),819131,4.0
+2010,March,Flinders Street Station Underpass,778368,5.0
+2010,March,State Library,622935,6.0
+2010,March,Bourke Street Mall (North),620191,7.0
+2010,March,Flagstaff Station,581126,8.0
+2010,March,Australia on Collins,546200,9.0
+2010,March,Collins Place (South),363730,10.0
+2010,May,Town Hall (West),1043343,1.0
+2010,May,Bourke Street Mall (South),794259,2.0
+2010,May,Melbourne Central,787414,3.0
+2010,May,Flinders Street Station Underpass,718316,4.0
+2010,May,Princes Bridge,665106,5.0
+2010,May,Bourke Street Mall (North),570325,6.0
+2010,May,Flagstaff Station,539936,7.0
+2010,May,State Library,523839,8.0
+2010,May,Australia on Collins,485445,9.0
+2010,May,Collins Place (South),345787,10.0
+2010,November,Town Hall (West),1050132,1.0
+2010,November,Bourke Street Mall (South),879738,2.0
+2010,November,Flinders Street Station Underpass,781536,3.0
+2010,November,Melbourne Central,756614,4.0
+2010,November,Princes Bridge,563694,5.0
+2010,November,Flagstaff Station,533506,6.0
+2010,November,Australia on Collins,526471,7.0
+2010,November,State Library,478520,8.0
+2010,November,Collins Place (South),362980,9.0
+2010,November,Collins Place (North),277917,10.0
+2010,October,Town Hall (West),1017342,1.0
+2010,October,Bourke Street Mall (South),819846,2.0
+2010,October,Flinders Street Station Underpass,767413,3.0
+2010,October,Bourke Street Mall (North),630623,4.0
+2010,October,Melbourne Central,618765,5.0
+2010,October,Princes Bridge,613103,6.0
+2010,October,Flagstaff Station,543480,7.0
+2010,October,Australia on Collins,526161,8.0
+2010,October,State Library,520247,9.0
+2010,October,Collins Place (South),363525,10.0
+2010,September,Town Hall (West),1030277,1.0
+2010,September,Bourke Street Mall (South),784423,2.0
+2010,September,Melbourne Central,772614,3.0
+2010,September,Flinders Street Station Underpass,746196,4.0
+2010,September,Bourke Street Mall (North),618262,5.0
+2010,September,Princes Bridge,590036,6.0
+2010,September,Flagstaff Station,537300,7.0
+2010,September,Australia on Collins,512188,8.0
+2010,September,State Library,505153,9.0
+2010,September,Collins Place (South),357462,10.0
+2011,April,Town Hall (West),1195568,1.0
+2011,April,Bourke Street Mall (South),972919,2.0
+2011,April,Melbourne Central,897977,3.0
+2011,April,Flinders Street Station Underpass,815530,4.0
+2011,April,Princes Bridge,664347,5.0
+2011,April,State Library,565421,6.0
+2011,April,Australia on Collins,548968,7.0
+2011,April,Flagstaff Station,473466,8.0
+2011,April,Collins Place (South),331079,9.0
+2011,April,Collins Place (North),253992,10.0
+2011,August,Town Hall (West),1055793,1.0
+2011,August,Bourke Street Mall (South),852134,2.0
+2011,August,Melbourne Central,841317,3.0
+2011,August,Flinders Street Station Underpass,815374,4.0
+2011,August,Princes Bridge,605924,5.0
+2011,August,Flagstaff Station,584537,6.0
+2011,August,State Library,547563,7.0
+2011,August,Australia on Collins,535239,8.0
+2011,August,Collins Place (South),364954,9.0
+2011,August,Southern Cross Station,299918,10.0
+2011,December,Town Hall (West),1260831,1.0
+2011,December,Bourke Street Mall (South),1227674,2.0
+2011,December,Flinders Street Station Underpass,900461,3.0
+2011,December,Melbourne Central,852903,4.0
+2011,December,Princes Bridge,649306,5.0
+2011,December,Australia on Collins,595553,6.0
+2011,December,State Library,511898,7.0
+2011,December,Flagstaff Station,450369,8.0
+2011,December,Bourke Street Mall (North),443595,9.0
+2011,December,Collins Place (South),314911,10.0
+2011,February,Town Hall (West),939189,1.0
+2011,February,Flinders Street Station Underpass,741443,2.0
+2011,February,Bourke Street Mall (South),735659,3.0
+2011,February,Melbourne Central,719419,4.0
+2011,February,Princes Bridge,541120,5.0
+2011,February,Flagstaff Station,525537,6.0
+2011,February,Australia on Collins,473519,7.0
+2011,February,State Library,468450,8.0
+2011,February,Collins Place (South),338868,9.0
+2011,February,Collins Place (North),267145,10.0
+2011,January,Town Hall (West),1074131,1.0
+2011,January,Bourke Street Mall (South),865293,2.0
+2011,January,Flinders Street Station Underpass,775410,3.0
+2011,January,Melbourne Central,710075,4.0
+2011,January,Princes Bridge,632786,5.0
+2011,January,Australia on Collins,496679,6.0
+2011,January,State Library,425012,7.0
+2011,January,Flagstaff Station,417690,8.0
+2011,January,Collins Place (South),314727,9.0
+2011,January,Birrarung Marr,302409,10.0
+2011,July,Town Hall (West),1111340,1.0
+2011,July,Bourke Street Mall (South),926239,2.0
+2011,July,Melbourne Central,841408,3.0
+2011,July,Flinders Street Station Underpass,821093,4.0
+2011,July,Princes Bridge,607586,5.0
+2011,July,Australia on Collins,561311,6.0
+2011,July,State Library,518236,7.0
+2011,July,Flagstaff Station,501886,8.0
+2011,July,Collins Place (South),342528,9.0
+2011,July,Southern Cross Station,277390,10.0
+2011,June,Town Hall (West),1033749,1.0
+2011,June,Bourke Street Mall (South),949292,2.0
+2011,June,Melbourne Central,787632,3.0
+2011,June,Flinders Street Station Underpass,781994,4.0
+2011,June,Princes Bridge,563498,5.0
+2011,June,Flagstaff Station,528791,6.0
+2011,June,Australia on Collins,519698,7.0
+2011,June,State Library,479012,8.0
+2011,June,Collins Place (South),347097,9.0
+2011,June,Southern Cross Station,282452,10.0
+2011,March,Town Hall (West),1139489,1.0
+2011,March,Melbourne Central,912169,2.0
+2011,March,Bourke Street Mall (South),887224,3.0
+2011,March,Flinders Street Station Underpass,871291,4.0
+2011,March,Princes Bridge,687669,5.0
+2011,March,State Library,640687,6.0
+2011,March,Flagstaff Station,596440,7.0
+2011,March,Australia on Collins,548421,8.0
+2011,March,Collins Place (South),386083,9.0
+2011,March,Birrarung Marr,329618,10.0
+2011,May,Town Hall (West),1053107,1.0
+2011,May,Bourke Street Mall (South),901472,2.0
+2011,May,Melbourne Central,820245,3.0
+2011,May,Flinders Street Station Underpass,798010,4.0
+2011,May,Flagstaff Station,574037,5.0
+2011,May,Princes Bridge,573423,6.0
+2011,May,Australia on Collins,523892,7.0
+2011,May,State Library,513769,8.0
+2011,May,Collins Place (South),368018,9.0
+2011,May,Southern Cross Station,297073,10.0
+2011,November,Town Hall (West),1080001,1.0
+2011,November,Bourke Street Mall (South),927147,2.0
+2011,November,Flinders Street Station Underpass,827084,3.0
+2011,November,Melbourne Central,796439,4.0
+2011,November,Princes Bridge,596603,5.0
+2011,November,Flagstaff Station,547839,6.0
+2011,November,Australia on Collins,535336,7.0
+2011,November,State Library,438092,8.0
+2011,November,Collins Place (South),366921,9.0
+2011,November,Southern Cross Station,281895,10.0
+2011,October,Town Hall (West),1077629,1.0
+2011,October,Bourke Street Mall (South),920192,2.0
+2011,October,Melbourne Central,824579,3.0
+2011,October,Flinders Street Station Underpass,817570,4.0
+2011,October,Princes Bridge,617795,5.0
+2011,October,Australia on Collins,546879,6.0
+2011,October,Flagstaff Station,543578,7.0
+2011,October,State Library,449674,8.0
+2011,October,Collins Place (South),352954,9.0
+2011,October,Southern Cross Station,281220,10.0
+2011,September,Town Hall (West),1012580,1.0
+2011,September,Bourke Street Mall (South),840685,2.0
+2011,September,Melbourne Central,808565,3.0
+2011,September,Flinders Street Station Underpass,791232,4.0
+2011,September,Princes Bridge,594221,5.0
+2011,September,Flagstaff Station,554223,6.0
+2011,September,Australia on Collins,523117,7.0
+2011,September,State Library,500709,8.0
+2011,September,Collins Place (South),357663,9.0
+2011,September,Southern Cross Station,283582,10.0
+2012,April,Town Hall (West),1262753,1.0
+2012,April,Melbourne Central,913595,2.0
+2012,April,Bourke Street Mall (South),829092,3.0
+2012,April,Flinders Street Station Underpass,794086,4.0
+2012,April,Bourke Street Mall (North),718245,5.0
+2012,April,Princes Bridge,681668,6.0
+2012,April,State Library,599899,7.0
+2012,April,Australia on Collins,513475,8.0
+2012,April,Flagstaff Station,471186,9.0
+2012,April,Collins Place (South),315358,10.0
+2012,August,Town Hall (West),1024240,1.0
+2012,August,Melbourne Central,934718,2.0
+2012,August,Flinders Street Station Underpass,820645,3.0
+2012,August,Bourke Street Mall (North),760213,4.0
+2012,August,Bourke Street Mall (South),755215,5.0
+2012,August,State Library,641124,6.0
+2012,August,Princes Bridge,640436,7.0
+2012,August,Flagstaff Station,576476,8.0
+2012,August,Australia on Collins,519405,9.0
+2012,August,Southern Cross Station,366346,10.0
+2012,December,Town Hall (West),1289099,1.0
+2012,December,Bourke Street Mall (South),1138406,2.0
+2012,December,Bourke Street Mall (North),1109541,3.0
+2012,December,Melbourne Central,909836,4.0
+2012,December,Princes Bridge,711306,5.0
+2012,December,Flinders Street Station Underpass,704523,6.0
+2012,December,Australia on Collins,573442,7.0
+2012,December,Flagstaff Station,420318,8.0
+2012,December,State Library,364274,9.0
+2012,December,Collins Place (South),287275,10.0
+2012,February,Town Hall (West),1136505,1.0
+2012,February,Melbourne Central,797638,2.0
+2012,February,Flinders Street Station Underpass,796421,3.0
+2012,February,Bourke Street Mall (South),795730,4.0
+2012,February,Bourke Street Mall (North),693906,5.0
+2012,February,Princes Bridge,629101,6.0
+2012,February,Flagstaff Station,566731,7.0
+2012,February,State Library,548209,8.0
+2012,February,Australia on Collins,501062,9.0
+2012,February,Collins Place (South),350724,10.0
+2012,January,Town Hall (West),1071523,1.0
+2012,January,Bourke Street Mall (South),854782,2.0
+2012,January,Flinders Street Station Underpass,813831,3.0
+2012,January,Bourke Street Mall (North),748906,4.0
+2012,January,Melbourne Central,727066,5.0
+2012,January,Princes Bridge,631769,6.0
+2012,January,Australia on Collins,491698,7.0
+2012,January,State Library,437896,8.0
+2012,January,Flagstaff Station,412936,9.0
+2012,January,Birrarung Marr,312135,10.0
+2012,July,Town Hall (West),1201272,1.0
+2012,July,Melbourne Central,930275,2.0
+2012,July,Flinders Street Station Underpass,840301,3.0
+2012,July,Bourke Street Mall (South),815873,4.0
+2012,July,Bourke Street Mall (North),770665,5.0
+2012,July,Princes Bridge,641997,6.0
+2012,July,State Library,596158,7.0
+2012,July,Australia on Collins,547868,8.0
+2012,July,Flagstaff Station,527519,9.0
+2012,July,Southern Cross Station,354391,10.0
+2012,June,Town Hall (West),1139939,1.0
+2012,June,Melbourne Central,813134,2.0
+2012,June,Bourke Street Mall (South),810148,3.0
+2012,June,Flinders Street Station Underpass,770660,4.0
+2012,June,Bourke Street Mall (North),651107,5.0
+2012,June,Princes Bridge,545042,6.0
+2012,June,Flagstaff Station,504490,7.0
+2012,June,State Library,501487,8.0
+2012,June,Australia on Collins,498005,9.0
+2012,June,Collins Place (South),320404,10.0
+2012,March,Town Hall (West),1337313,1.0
+2012,March,Melbourne Central,963082,2.0
+2012,March,Bourke Street Mall (South),892089,3.0
+2012,March,Flinders Street Station Underpass,886703,4.0
+2012,March,Princes Bridge,754918,5.0
+2012,March,Bourke Street Mall (North),751873,6.0
+2012,March,State Library,670004,7.0
+2012,March,Flagstaff Station,569596,8.0
+2012,March,Australia on Collins,550606,9.0
+2012,March,Birrarung Marr,401500,10.0
+2012,May,Town Hall (West),1213806,1.0
+2012,May,Melbourne Central,879005,2.0
+2012,May,Flinders Street Station Underpass,829807,3.0
+2012,May,Bourke Street Mall (South),812254,4.0
+2012,May,Bourke Street Mall (North),690695,5.0
+2012,May,Flagstaff Station,606867,6.0
+2012,May,State Library,597685,7.0
+2012,May,Princes Bridge,584572,8.0
+2012,May,Australia on Collins,511960,9.0
+2012,May,Collins Place (South),366796,10.0
+2012,November,Town Hall (West),1097719,1.0
+2012,November,Melbourne Central,897542,2.0
+2012,November,Bourke Street Mall (North),869758,3.0
+2012,November,Bourke Street Mall (South),846704,4.0
+2012,November,Flinders Street Station Underpass,717746,5.0
+2012,November,Princes Bridge,695578,6.0
+2012,November,State Library,544294,7.0
+2012,November,Flagstaff Station,540514,8.0
+2012,November,Australia on Collins,525090,9.0
+2012,November,Southern Cross Station,342801,10.0
+2012,October,Town Hall (West),1043780,1.0
+2012,October,Melbourne Central,906661,2.0
+2012,October,Flinders Street Station Underpass,838925,3.0
+2012,October,Bourke Street Mall (North),788582,4.0
+2012,October,Bourke Street Mall (South),773389,5.0
+2012,October,Princes Bridge,662185,6.0
+2012,October,Flagstaff Station,580996,7.0
+2012,October,State Library,566445,8.0
+2012,October,Australia on Collins,524900,9.0
+2012,October,Birrarung Marr,413742,10.0
+2012,September,Town Hall (West),993690,1.0
+2012,September,Melbourne Central,910455,2.0
+2012,September,Flinders Street Station Underpass,783968,3.0
+2012,September,Bourke Street Mall (North),752744,4.0
+2012,September,Bourke Street Mall (South),749446,5.0
+2012,September,Princes Bridge,663964,6.0
+2012,September,Flagstaff Station,496204,7.0
+2012,September,Australia on Collins,491753,8.0
+2012,September,Birrarung Marr,435904,9.0
+2012,September,Southern Cross Station,329746,10.0
+2013,April,Town Hall (West),1134511,1.0
+2013,April,Melbourne Central,978527,2.0
+2013,April,Bourke Street Mall (North),810826,3.0
+2013,April,Bourke Street Mall (South),784050,4.0
+2013,April,Princes Bridge,721433,5.0
+2013,April,State Library,613999,6.0
+2013,April,Flinders Street Station Underpass,611924,7.0
+2013,April,Australia on Collins,518370,8.0
+2013,April,Flagstaff Station,517956,9.0
+2013,April,Southern Cross Station,369313,10.0
+2013,August,Town Hall (West),1058173,1.0
+2013,August,Melbourne Central,957645,2.0
+2013,August,Bourke Street Mall (North),817304,3.0
+2013,August,Bourke Street Mall (South),772946,4.0
+2013,August,Princes Bridge,733894,5.0
+2013,August,Flinders Street Station Underpass,606158,6.0
+2013,August,Flagstaff Station,569941,7.0
+2013,August,Australia on Collins,544854,8.0
+2013,August,Southern Cross Station,387562,9.0
+2013,August,Collins Place (South),321346,10.0
+2013,December,Town Hall (West),1327894,1.0
+2013,December,Bourke Street Mall (South),1145625,2.0
+2013,December,Bourke Street Mall (North),1141824,3.0
+2013,December,Flinders St-Elizabeth St (East),1117051,4.0
+2013,December,Melbourne Central,983912,5.0
+2013,December,Princes Bridge,776400,6.0
+2013,December,Flinders Street Station Underpass,689307,7.0
+2013,December,State Library,621647,8.0
+2013,December,The Arts Centre,603502,9.0
+2013,December,Australia on Collins,601616,10.0
+2013,February,Town Hall (West),970271,1.0
+2013,February,Melbourne Central,829318,2.0
+2013,February,Bourke Street Mall (North),730890,3.0
+2013,February,Princes Bridge,702616,4.0
+2013,February,Bourke Street Mall (South),692982,5.0
+2013,February,Flinders Street Station Underpass,620231,6.0
+2013,February,State Library,543332,7.0
+2013,February,Flagstaff Station,527318,8.0
+2013,February,Australia on Collins,483637,9.0
+2013,February,Southern Cross Station,355431,10.0
+2013,January,Town Hall (West),1113798,1.0
+2013,January,Melbourne Central,842286,2.0
+2013,January,Bourke Street Mall (South),802711,3.0
+2013,January,Bourke Street Mall (North),791206,4.0
+2013,January,Princes Bridge,738682,5.0
+2013,January,Flinders Street Station Underpass,655292,6.0
+2013,January,Australia on Collins,501206,7.0
+2013,January,Flagstaff Station,439307,8.0
+2013,January,Birrarung Marr,335058,9.0
+2013,January,Collins Place (South),302399,10.0
+2013,July,Town Hall (West),1089411,1.0
+2013,July,Melbourne Central,907766,2.0
+2013,July,Bourke Street Mall (North),839856,3.0
+2013,July,Bourke Street Mall (South),826430,4.0
+2013,July,Princes Bridge,743225,5.0
+2013,July,Flinders Street Station Underpass,629168,6.0
+2013,July,Australia on Collins,564946,7.0
+2013,July,Flagstaff Station,555564,8.0
+2013,July,Southern Cross Station,442078,9.0
+2013,July,Collins Place (South),330721,10.0
+2013,June,Town Hall (West),991671,1.0
+2013,June,Melbourne Central,833312,2.0
+2013,June,Bourke Street Mall (North),775793,3.0
+2013,June,Bourke Street Mall (South),735381,4.0
+2013,June,Princes Bridge,670550,5.0
+2013,June,Flinders Street Station Underpass,575411,6.0
+2013,June,Australia on Collins,494405,7.0
+2013,June,Flagstaff Station,493864,8.0
+2013,June,Southern Cross Station,367707,9.0
+2013,June,Collins Place (South),287262,10.0
+2013,March,Town Hall (West),1107832,1.0
+2013,March,Melbourne Central,1052612,2.0
+2013,March,Princes Bridge,839539,3.0
+2013,March,Bourke Street Mall (North),832992,4.0
+2013,March,Bourke Street Mall (South),779914,5.0
+2013,March,State Library,678848,6.0
+2013,March,Flinders Street Station Underpass,664573,7.0
+2013,March,Australia on Collins,526565,8.0
+2013,March,Flagstaff Station,517936,9.0
+2013,March,Birrarung Marr,370775,10.0
+2013,May,Town Hall (West),1031301,1.0
+2013,May,Melbourne Central,916707,2.0
+2013,May,Bourke Street Mall (North),803441,3.0
+2013,May,Bourke Street Mall (South),740244,4.0
+2013,May,Princes Bridge,673187,5.0
+2013,May,State Library,612240,6.0
+2013,May,Flagstaff Station,607126,7.0
+2013,May,Flinders Street Station Underpass,606688,8.0
+2013,May,Australia on Collins,514372,9.0
+2013,May,Southern Cross Station,435038,10.0
+2013,November,Town Hall (West),1104187,1.0
+2013,November,Flinders St-Elizabeth St (East),1016083,2.0
+2013,November,Melbourne Central,918317,3.0
+2013,November,Bourke Street Mall (North),876165,4.0
+2013,November,Bourke Street Mall (South),839533,5.0
+2013,November,Princes Bridge,742520,6.0
+2013,November,Spencer St-Collins St (North),665605,7.0
+2013,November,The Arts Centre,643419,8.0
+2013,November,State Library,617230,9.0
+2013,November,Flinders Street Station Underpass,610156,10.0
+2013,October,Town Hall (West),1052593,1.0
+2013,October,Flinders St-Elizabeth St (East),1025591,2.0
+2013,October,Melbourne Central,894565,3.0
+2013,October,Bourke Street Mall (North),798870,4.0
+2013,October,Bourke Street Mall (South),761025,5.0
+2013,October,Spencer St-Collins St (North),723116,6.0
+2013,October,Princes Bridge,671618,7.0
+2013,October,State Library,630260,8.0
+2013,October,Flinders Street Station Underpass,618492,9.0
+2013,October,Flagstaff Station,573646,10.0
+2013,September,Town Hall (West),1001733,1.0
+2013,September,Flinders St-Elizabeth St (East),979596,2.0
+2013,September,Melbourne Central,884397,3.0
+2013,September,Bourke Street Mall (North),755760,4.0
+2013,September,Bourke Street Mall (South),745829,5.0
+2013,September,Princes Bridge,701649,6.0
+2013,September,Spencer St-Collins St (North),660224,7.0
+2013,September,State Library,591823,8.0
+2013,September,Flinders Street Station Underpass,585041,9.0
+2013,September,Flagstaff Station,537065,10.0
+2014,April,Town Hall (West),1198193,1.0
+2014,April,Flinders St-Elizabeth St (East),1069421,2.0
+2014,April,Melbourne Central,1015305,3.0
+2014,April,Bourke Street Mall (North),902012,4.0
+2014,April,City Square,866825,5.0
+2014,April,Bourke Street Mall (South),845036,6.0
+2014,April,Princes Bridge,777851,7.0
+2014,April,State Library,657197,8.0
+2014,April,Spencer St-Collins St (North),655581,9.0
+2014,April,Flinders Street Station Underpass,615832,10.0
+2014,August,Flinders St-Elizabeth St (East),1059926,1.0
+2014,August,Melbourne Central,1033709,2.0
+2014,August,Town Hall (West),900157,3.0
+2014,August,Bourke Street Mall (North),750077,4.0
+2014,August,Princes Bridge,730823,5.0
+2014,August,Bourke Street Mall (South),721774,6.0
+2014,August,Spencer St-Collins St (North),715768,7.0
+2014,August,City Square,705843,8.0
+2014,August,State Library,645445,9.0
+2014,August,The Arts Centre,626033,10.0
+2014,December,Town Hall (West),1419535,1.0
+2014,December,Flinders St-Elizabeth St (East),1163576,2.0
+2014,December,Bourke Street Mall (South),1144588,3.0
+2014,December,City Square,1023518,4.0
+2014,December,Melbourne Central,972818,5.0
+2014,December,Princes Bridge,804383,6.0
+2014,December,Flinders Street Station Underpass,750082,7.0
+2014,December,Spencer St-Collins St (North),666334,8.0
+2014,December,The Arts Centre,617330,9.0
+2014,December,State Library,594606,10.0
+2014,February,Town Hall (West),1017371,1.0
+2014,February,Flinders St-Elizabeth St (East),992670,2.0
+2014,February,Melbourne Central,882554,3.0
+2014,February,Bourke Street Mall (North),787333,4.0
+2014,February,Bourke Street Mall (South),713106,5.0
+2014,February,Princes Bridge,696979,6.0
+2014,February,Spencer St-Collins St (North),657325,7.0
+2014,February,State Library,630463,8.0
+2014,February,City Square,590744,9.0
+2014,February,Flinders Street Station Underpass,587789,10.0
+2014,January,Town Hall (West),1100135,1.0
+2014,January,Flinders St-Elizabeth St (East),1064733,2.0
+2014,January,Melbourne Central,844635,3.0
+2014,January,Bourke Street Mall (North),798262,4.0
+2014,January,Bourke Street Mall (South),795386,5.0
+2014,January,Princes Bridge,752408,6.0
+2014,January,City Square,709047,7.0
+2014,January,Flinders Street Station Underpass,633265,8.0
+2014,January,The Arts Centre,606283,9.0
+2014,January,Spencer St-Collins St (North),603608,10.0
+2014,July,Flinders St-Elizabeth St (East),1060808,1.0
+2014,July,Melbourne Central,937819,2.0
+2014,July,Town Hall (West),836833,3.0
+2014,July,Bourke Street Mall (North),800875,4.0
+2014,July,Bourke Street Mall (South),773179,5.0
+2014,July,Princes Bridge,724269,6.0
+2014,July,City Square,702447,7.0
+2014,July,Spencer St-Collins St (North),647752,8.0
+2014,July,Flinders Street Station Underpass,629226,9.0
+2014,July,The Arts Centre,620888,10.0
+2014,June,Town Hall (West),1044960,1.0
+2014,June,Flinders St-Elizabeth St (East),986041,2.0
+2014,June,Melbourne Central,851433,3.0
+2014,June,Bourke Street Mall (North),749352,4.0
+2014,June,Bourke Street Mall (South),715883,5.0
+2014,June,Spencer St-Collins St (North),668900,6.0
+2014,June,Princes Bridge,655945,7.0
+2014,June,City Square,619128,8.0
+2014,June,The Arts Centre,571908,9.0
+2014,June,Flinders Street Station Underpass,568549,10.0
+2014,March,Town Hall (West),1151765,1.0
+2014,March,Flinders St-Elizabeth St (East),1099678,2.0
+2014,March,Melbourne Central,1083106,3.0
+2014,March,Bourke Street Mall (North),845532,4.0
+2014,March,Princes Bridge,844643,5.0
+2014,March,City Square,836980,6.0
+2014,March,Bourke Street Mall (South),787833,7.0
+2014,March,State Library,744602,8.0
+2014,March,Spencer St-Collins St (North),733306,9.0
+2014,March,The Arts Centre,679056,10.0
+2014,May,Town Hall (West),1135069,1.0
+2014,May,Flinders St-Elizabeth St (East),1071990,2.0
+2014,May,Melbourne Central,982321,3.0
+2014,May,Bourke Street Mall (North),827025,4.0
+2014,May,Bourke Street Mall (South),755415,5.0
+2014,May,City Square,727790,6.0
+2014,May,Princes Bridge,709233,7.0
+2014,May,State Library,646025,8.0
+2014,May,Flinders Street Station Underpass,623711,9.0
+2014,May,The Arts Centre,604451,10.0
+2014,November,Town Hall (West),1173173,1.0
+2014,November,Flinders St-Elizabeth St (East),1070165,2.0
+2014,November,Melbourne Central,954541,3.0
+2014,November,Bourke Street Mall (South),832719,4.0
+2014,November,Princes Bridge,793174,5.0
+2014,November,City Square,750766,6.0
+2014,November,Spencer St-Collins St (North),676891,7.0
+2014,November,Flinders Street Station Underpass,658042,8.0
+2014,November,State Library,587433,9.0
+2014,November,The Arts Centre,575398,10.0
+2014,October,Town Hall (West),1136206,1.0
+2014,October,Flinders St-Elizabeth St (East),1096044,2.0
+2014,October,Melbourne Central,997779,3.0
+2014,October,Bourke Street Mall (North),798950,4.0
+2014,October,Bourke Street Mall (South),788991,5.0
+2014,October,Spencer St-Collins St (North),764954,6.0
+2014,October,City Square,755152,7.0
+2014,October,Princes Bridge,753886,8.0
+2014,October,Flinders Street Station Underpass,687763,9.0
+2014,October,State Library,628859,10.0
+2014,September,Town Hall (West),1067446,1.0
+2014,September,Flinders St-Elizabeth St (East),1049304,2.0
+2014,September,Melbourne Central,943337,3.0
+2014,September,Bourke Street Mall (North),732849,4.0
+2014,September,Bourke Street Mall (South),721921,5.0
+2014,September,Spencer St-Collins St (North),710906,6.0
+2014,September,Princes Bridge,706978,7.0
+2014,September,Flinders Street Station Underpass,626060,8.0
+2014,September,The Arts Centre,610833,9.0
+2014,September,State Library,597154,10.0
+2015,April,Flinders St-Swanston St (West),1804321,1.0
+2015,April,Town Hall (West),1158730,2.0
+2015,April,Flinders Street Station Underpass,1111253,3.0
+2015,April,Flinders St-Elizabeth St (East),1058893,4.0
+2015,April,Melbourne Central,1005451,5.0
+2015,April,City Square,893646,6.0
+2015,April,Princes Bridge,873302,7.0
+2015,April,Bourke Street Mall (North),834227,8.0
+2015,April,Bourke Street Mall (South),762652,9.0
+2015,April,Spencer St-Collins St (North),727776,10.0
+2015,August,Flinders St-Swanston St (West),1753217,1.0
+2015,August,Flinders Street Station Underpass,1089369,2.0
+2015,August,Town Hall (West),1071959,3.0
+2015,August,Melbourne Central,956631,4.0
+2015,August,Bourke Street Mall (North),798046,5.0
+2015,August,Princes Bridge,779201,6.0
+2015,August,Spencer St-Collins St (North),777888,7.0
+2015,August,Bourke Street Mall (South),733689,8.0
+2015,August,The Arts Centre,656452,9.0
+2015,August,State Library,623419,10.0
+2015,December,Flinders St-Swanston St (West),1931228,1.0
+2015,December,Town Hall (West),1407202,2.0
+2015,December,Bourke Street Mall (South),1176202,3.0
+2015,December,Flinders Street Station Underpass,1135071,4.0
+2015,December,City Square,1060047,5.0
+2015,December,Flinders St-Elizabeth St (East),1005259,6.0
+2015,December,Princes Bridge,949329,7.0
+2015,December,Melbourne Central,945321,8.0
+2015,December,Spencer St-Collins St (North),840567,9.0
+2015,December,Bourke Street Mall (North),728157,10.0
+2015,February,Flinders St-Swanston St (West),1645443,1.0
+2015,February,Town Hall (West),1074216,2.0
+2015,February,Flinders St-Elizabeth St (East),1045406,3.0
+2015,February,Melbourne Central,858384,4.0
+2015,February,Princes Bridge,836623,5.0
+2015,February,Flinders Street Station Underpass,836508,6.0
+2015,February,City Square,781262,7.0
+2015,February,Spencer St-Collins St (North),709773,8.0
+2015,February,Bourke Street Mall (South),705162,9.0
+2015,February,The Arts Centre,688364,10.0
+2015,January,Flinders St-Swanston St (West),1738953,1.0
+2015,January,Town Hall (West),1154347,2.0
+2015,January,Flinders St-Elizabeth St (East),1113193,3.0
+2015,January,Princes Bridge,859144,4.0
+2015,January,Melbourne Central,838951,5.0
+2015,January,Bourke Street Mall (South),794963,6.0
+2015,January,City Square,774231,7.0
+2015,January,Flinders Street Station Underpass,694347,8.0
+2015,January,Spencer St-Collins St (North),619121,9.0
+2015,January,The Arts Centre,591321,10.0
+2015,July,Flinders St-Swanston St (West),1785263,1.0
+2015,July,Flinders Street Station Underpass,1153654,2.0
+2015,July,Town Hall (West),1116273,3.0
+2015,July,Flinders St-Elizabeth St (East),1072318,4.0
+2015,July,Melbourne Central,928252,5.0
+2015,July,Bourke Street Mall (North),854795,6.0
+2015,July,Spencer St-Collins St (North),815189,7.0
+2015,July,Princes Bridge,791801,8.0
+2015,July,Bourke Street Mall (South),763194,9.0
+2015,July,City Square,719197,10.0
+2015,June,Flinders St-Swanston St (West),1727424,1.0
+2015,June,Town Hall (West),1055767,2.0
+2015,June,Flinders St-Elizabeth St (East),993804,3.0
+2015,June,Flinders Street Station Underpass,934698,4.0
+2015,June,Melbourne Central,871822,5.0
+2015,June,Princes Bridge,865442,6.0
+2015,June,Bourke Street Mall (North),785631,7.0
+2015,June,Spencer St-Collins St (North),739170,8.0
+2015,June,Bourke Street Mall (South),709853,9.0
+2015,June,The Arts Centre,662994,10.0
+2015,March,Flinders St-Swanston St (West),1966429,1.0
+2015,March,Flinders Street Station Underpass,1223332,2.0
+2015,March,Town Hall (West),1191867,3.0
+2015,March,Flinders St-Elizabeth St (East),1162680,4.0
+2015,March,Melbourne Central,1077952,5.0
+2015,March,Princes Bridge,968980,6.0
+2015,March,City Square,910872,7.0
+2015,March,Bourke Street Mall (North),859945,8.0
+2015,March,Bourke Street Mall (South),797949,9.0
+2015,March,Spencer St-Collins St (North),794845,10.0
+2015,May,Flinders St-Swanston St (West),1775415,1.0
+2015,May,Flinders Street Station Underpass,1116699,2.0
+2015,May,Town Hall (West),1083577,3.0
+2015,May,Flinders St-Elizabeth St (East),1064189,4.0
+2015,May,Melbourne Central,947615,5.0
+2015,May,Bourke Street Mall (North),805145,6.0
+2015,May,Princes Bridge,783172,7.0
+2015,May,Spencer St-Collins St (North),769928,8.0
+2015,May,City Square,733911,9.0
+2015,May,Bourke Street Mall (South),721904,10.0
+2015,November,Flinders St-Swanston St (West),1818857,1.0
+2015,November,Town Hall (West),1163968,2.0
+2015,November,Flinders Street Station Underpass,1021637,3.0
+2015,November,Melbourne Central,922027,4.0
+2015,November,Princes Bridge,913026,5.0
+2015,November,Spencer St-Collins St (North),856077,6.0
+2015,November,Bourke Street Mall (South),851184,7.0
+2015,November,City Square,797448,8.0
+2015,November,Flinders St-Elizabeth St (East),759027,9.0
+2015,November,The Arts Centre,704579,10.0
+2015,October,Flinders St-Swanston St (West),1820460,1.0
+2015,October,Town Hall (West),1100600,2.0
+2015,October,Flinders Street Station Underpass,1048475,3.0
+2015,October,Melbourne Central,960945,4.0
+2015,October,Princes Bridge,899311,5.0
+2015,October,Spencer St-Collins St (North),881282,6.0
+2015,October,Bourke Street Mall (South),806308,7.0
+2015,October,City Square,803964,8.0
+2015,October,Bourke Street Mall (North),796249,9.0
+2015,October,The Arts Centre,705176,10.0
+2015,September,Flinders St-Swanston St (West),1727151,1.0
+2015,September,Town Hall (West),1049441,2.0
+2015,September,Flinders Street Station Underpass,1038950,3.0
+2015,September,Flinders St-Elizabeth St (East),1021606,4.0
+2015,September,Melbourne Central,930881,5.0
+2015,September,Princes Bridge,821938,6.0
+2015,September,Bourke Street Mall (North),802090,7.0
+2015,September,Spencer St-Collins St (North),758920,8.0
+2015,September,Bourke Street Mall (South),751721,9.0
+2015,September,St Kilda Rd-Alexandra Gardens,745970,10.0
+2016,April,Flinders St-Swanston St (West),1900791,1.0
+2016,April,Town Hall (West),1187663,2.0
+2016,April,Flinders Street Station Underpass,1051200,3.0
+2016,April,Flinders St-Elizabeth St (East),1041483,4.0
+2016,April,Bourke Street Mall (North),1027597,5.0
+2016,April,Princes Bridge,1025524,6.0
+2016,April,Melbourne Central,975817,7.0
+2016,April,City Square,899690,8.0
+2016,April,Spencer St-Collins St (North),898025,9.0
+2016,April,The Arts Centre,821361,10.0
+2016,August,Flinders St-Swanston St (West),1805067,1.0
+2016,August,Southbank,1139566,2.0
+2016,August,Town Hall (West),1040264,3.0
+2016,August,Melbourne Central,1024618,4.0
+2016,August,Flinders Street Station Underpass,1023647,5.0
+2016,August,Bourke Street Mall (North),997722,6.0
+2016,August,Spencer St-Collins St (North),955010,7.0
+2016,August,Princes Bridge,877871,8.0
+2016,August,City Square,733874,9.0
+2016,August,The Arts Centre,714621,10.0
+2016,December,Flinders St-Swanston St (West),1857062,1.0
+2016,December,Southbank,1474484,2.0
+2016,December,Bourke Street Mall (North),1248598,3.0
+2016,December,Flinders Street Station Underpass,1149211,4.0
+2016,December,Bourke Street Mall (South),1124133,5.0
+2016,December,Princes Bridge,992642,6.0
+2016,December,City Square,988001,7.0
+2016,December,Spencer St-Collins St (North),876361,8.0
+2016,December,The Arts Centre,671075,9.0
+2016,December,Collins St (North),616792,10.0
+2016,February,Flinders St-Swanston St (West),1777979,1.0
+2016,February,Town Hall (West),1130229,2.0
+2016,February,Flinders Street Station Underpass,1041783,3.0
+2016,February,Flinders St-Elizabeth St (East),1034116,4.0
+2016,February,Princes Bridge,1000371,5.0
+2016,February,Melbourne Central,935836,6.0
+2016,February,Bourke Street Mall (North),920858,7.0
+2016,February,City Square,898480,8.0
+2016,February,Spencer St-Collins St (North),881123,9.0
+2016,February,The Arts Centre,777712,10.0
+2016,January,Flinders St-Swanston St (West),1844471,1.0
+2016,January,Town Hall (West),1159534,2.0
+2016,January,Flinders St-Elizabeth St (East),1046441,3.0
+2016,January,Flinders Street Station Underpass,1024338,4.0
+2016,January,Princes Bridge,1013688,5.0
+2016,January,Melbourne Central,854232,6.0
+2016,January,City Square,794832,7.0
+2016,January,Bourke Street Mall (South),794179,8.0
+2016,January,The Arts Centre,790301,9.0
+2016,January,Bourke Street Mall (North),771448,10.0
+2016,July,Flinders St-Swanston St (West),1811931,1.0
+2016,July,Southbank,1198862,2.0
+2016,July,Town Hall (West),1100423,3.0
+2016,July,Bourke Street Mall (North),1043822,4.0
+2016,July,Melbourne Central,1034508,5.0
+2016,July,Flinders Street Station Underpass,1027802,6.0
+2016,July,Spencer St-Collins St (North),918993,7.0
+2016,July,Princes Bridge,917175,8.0
+2016,July,City Square,770654,9.0
+2016,July,Bourke Street Mall (South),760530,10.0
+2016,June,Flinders St-Swanston St (West),1600637,1.0
+2016,June,Town Hall (West),981576,2.0
+2016,June,Bourke Street Mall (North),964601,3.0
+2016,June,Flinders Street Station Underpass,944461,4.0
+2016,June,Southbank,936557,5.0
+2016,June,Spencer St-Collins St (North),890224,6.0
+2016,June,Melbourne Central,874207,7.0
+2016,June,Princes Bridge,735724,8.0
+2016,June,Bourke Street Mall (South),704311,9.0
+2016,June,City Square,612759,10.0
+2016,March,Flinders St-Swanston St (West),1951326,1.0
+2016,March,Town Hall (West),1198900,2.0
+2016,March,Flinders St-Elizabeth St (East),1086249,3.0
+2016,March,Flinders Street Station Underpass,1081469,4.0
+2016,March,Princes Bridge,1047948,5.0
+2016,March,Melbourne Central,1033265,6.0
+2016,March,Bourke Street Mall (North),990888,7.0
+2016,March,Spencer St-Collins St (North),904908,8.0
+2016,March,City Square,869474,9.0
+2016,March,The Arts Centre,788127,10.0
+2016,May,Flinders St-Swanston St (West),1730658,1.0
+2016,May,Town Hall (West),1036787,2.0
+2016,May,Flinders St-Elizabeth St (East),1009353,3.0
+2016,May,Flinders Street Station Underpass,1003051,4.0
+2016,May,Southbank,1000634,5.0
+2016,May,Bourke Street Mall (North),970128,6.0
+2016,May,Melbourne Central,963822,7.0
+2016,May,Spencer St-Collins St (North),929631,8.0
+2016,May,Princes Bridge,799195,9.0
+2016,May,City Square,709200,10.0
+2016,November,Flinders St-Swanston St (West),1740523,1.0
+2016,November,Southbank,1209377,2.0
+2016,November,Flinders Street Station Underpass,1083579,3.0
+2016,November,Bourke Street Mall (North),1039800,4.0
+2016,November,Princes Bridge,936075,5.0
+2016,November,Spencer St-Collins St (North),920024,6.0
+2016,November,Bourke Street Mall (South),800306,7.0
+2016,November,City Square,790066,8.0
+2016,November,The Arts Centre,723913,9.0
+2016,November,State Library,641582,10.0
+2016,October,Flinders St-Swanston St (West),1737392,1.0
+2016,October,Southbank,1137061,2.0
+2016,October,Flinders Street Station Underpass,1025030,3.0
+2016,October,Bourke Street Mall (North),992592,4.0
+2016,October,Spencer St-Collins St (North),918917,5.0
+2016,October,Princes Bridge,853612,6.0
+2016,October,Bourke Street Mall (South),749275,7.0
+2016,October,City Square,704322,8.0
+2016,October,The Arts Centre,645213,9.0
+2016,October,State Library,618886,10.0
+2016,September,Flinders St-Swanston St (West),1735719,1.0
+2016,September,Southbank,1127884,2.0
+2016,September,Town Hall (West),1047727,3.0
+2016,September,Flinders Street Station Underpass,994761,4.0
+2016,September,Bourke Street Mall (North),986772,5.0
+2016,September,Melbourne Central,964707,6.0
+2016,September,Spencer St-Collins St (North),894769,7.0
+2016,September,Princes Bridge,866167,8.0
+2016,September,Bourke Street Mall (South),726441,9.0
+2016,September,City Square,705794,10.0
+2017,April,Southbank,1308507,1.0
+2017,April,Flinders Street Station Underpass,1012907,2.0
+2017,April,Bourke Street Mall (North),997482,3.0
+2017,April,Melbourne Central,987618,4.0
+2017,April,Princes Bridge,977749,5.0
+2017,April,Flinders St-Elizabeth St (East),969972,6.0
+2017,April,Spencer St-Collins St (North),871082,7.0
+2017,April,Bourke Street Mall (South),760434,8.0
+2017,April,The Arts Centre,743788,9.0
+2017,April,State Library,654330,10.0
+2017,August,Flinders La-Swanston St (West),1482257,1.0
+2017,August,Southbank,1084862,2.0
+2017,August,Flinders Street Station Underpass,1040597,3.0
+2017,August,Spencer St-Collins St (North),1031431,4.0
+2017,August,Town Hall (West),1028463,5.0
+2017,August,Melbourne Central,968681,6.0
+2017,August,Bourke Street Mall (North),941881,7.0
+2017,August,The Arts Centre,714967,8.0
+2017,August,Bourke Street Mall (South),684195,9.0
+2017,August,State Library,663859,10.0
+2017,December,Flinders La-Swanston St (West),1534446,1.0
+2017,December,Southbank,1496960,2.0
+2017,December,Town Hall (West),1264956,3.0
+2017,December,Flinders Street Station Underpass,1196341,4.0
+2017,December,Flinders St-Elizabeth St (East),1153637,5.0
+2017,December,Bourke Street Mall (North),1136439,6.0
+2017,December,Princes Bridge,1086973,7.0
+2017,December,Bourke Street Mall (South),1027063,8.0
+2017,December,Melbourne Central,927957,9.0
+2017,December,Spencer St-Collins St (North),911571,10.0
+2017,February,Southbank,1209324,1.0
+2017,February,Flinders Street Station Underpass,1021211,2.0
+2017,February,Princes Bridge,914301,3.0
+2017,February,Spencer St-Collins St (North),899168,4.0
+2017,February,Melbourne Central,893209,5.0
+2017,February,Bourke Street Mall (North),884361,6.0
+2017,February,Bourke Street Mall (South),686297,7.0
+2017,February,The Arts Centre,676087,8.0
+2017,February,State Library,629603,9.0
+2017,February,Flagstaff Station,616789,10.0
+2017,January,Southbank,1400383,1.0
+2017,January,Flinders Street Station Underpass,1055408,2.0
+2017,January,Princes Bridge,1030135,3.0
+2017,January,Bourke Street Mall (North),915872,4.0
+2017,January,Spencer St-Collins St (North),828032,5.0
+2017,January,Bourke Street Mall (South),773310,6.0
+2017,January,The Arts Centre,748812,7.0
+2017,January,Birrarung Marr,642163,8.0
+2017,January,City Square,579530,9.0
+2017,January,State Library,545573,10.0
+2017,July,Flinders La-Swanston St (West),1504540,1.0
+2017,July,Southbank,1203955,2.0
+2017,July,Town Hall (West),1080143,3.0
+2017,July,Flinders Street Station Underpass,1055075,4.0
+2017,July,Bourke Street Mall (North),1005119,5.0
+2017,July,Spencer St-Collins St (North),996873,6.0
+2017,July,Melbourne Central,963212,7.0
+2017,July,The Arts Centre,804272,8.0
+2017,July,Bourke Street Mall (South),742760,9.0
+2017,July,Little Collins St-Swanston St (East),669455,10.0
+2017,June,Southbank,1115676,1.0
+2017,June,Flinders Street Station Underpass,1009192,2.0
+2017,June,Town Hall (West),971094,3.0
+2017,June,Bourke Street Mall (North),968495,4.0
+2017,June,Flinders St-Elizabeth St (East),963521,5.0
+2017,June,Spencer St-Collins St (North),954109,6.0
+2017,June,Melbourne Central,871622,7.0
+2017,June,The Arts Centre,849099,8.0
+2017,June,Princes Bridge,748546,9.0
+2017,June,Bourke Street Mall (South),702261,10.0
+2017,March,Southbank,1389256,1.0
+2017,March,Flinders Street Station Underpass,1163239,2.0
+2017,March,Melbourne Central,1065189,3.0
+2017,March,Spencer St-Collins St (North),1060384,4.0
+2017,March,Bourke Street Mall (North),1033731,5.0
+2017,March,Princes Bridge,1020710,6.0
+2017,March,Bourke Street Mall (South),757690,7.0
+2017,March,State Library,719976,8.0
+2017,March,Flagstaff Station,712181,9.0
+2017,March,Collins St (North),543269,10.0
+2017,May,Southbank,1157203,1.0
+2017,May,Flinders St-Elizabeth St (East),1070699,2.0
+2017,May,Flinders Street Station Underpass,1058039,3.0
+2017,May,Spencer St-Collins St (North),1023285,4.0
+2017,May,Bourke Street Mall (North),978905,5.0
+2017,May,Princes Bridge,956815,6.0
+2017,May,Melbourne Central,922636,7.0
+2017,May,The Arts Centre,845480,8.0
+2017,May,Bourke Street Mall (South),693992,9.0
+2017,May,State Library,651078,10.0
+2017,November,Flinders La-Swanston St (West),1434538,1.0
+2017,November,Southbank,1336592,2.0
+2017,November,Flinders St-Elizabeth St (East),1178237,3.0
+2017,November,Flinders Street Station Underpass,1174889,4.0
+2017,November,Town Hall (West),1093601,5.0
+2017,November,Princes Bridge,1055953,6.0
+2017,November,Spencer St-Collins St (North),994839,7.0
+2017,November,Bourke Street Mall (North),990897,8.0
+2017,November,Melbourne Central,932668,9.0
+2017,November,Bourke Street Mall (South),804618,10.0
+2017,October,Flinders La-Swanston St (West),1369663,1.0
+2017,October,Southbank,1305189,2.0
+2017,October,Flinders Street Station Underpass,1149960,3.0
+2017,October,Town Hall (West),1037201,4.0
+2017,October,Spencer St-Collins St (North),1013618,5.0
+2017,October,Bourke Street Mall (North),963580,6.0
+2017,October,Melbourne Central,956458,7.0
+2017,October,The Arts Centre,861405,8.0
+2017,October,Bourke Street Mall (South),753803,9.0
+2017,October,Melbourne Central-Elizabeth St (East),743330,10.0
+2017,September,Flinders La-Swanston St (West),1329334,1.0
+2017,September,Southbank,1134351,2.0
+2017,September,Flinders Street Station Underpass,1017160,3.0
+2017,September,Town Hall (West),994995,4.0
+2017,September,Spencer St-Collins St (North),943961,5.0
+2017,September,Bourke Street Mall (North),937740,6.0
+2017,September,Melbourne Central,929795,7.0
+2017,September,The Arts Centre,771848,8.0
+2017,September,Bourke Street Mall (South),699499,9.0
+2017,September,Melbourne Central-Elizabeth St (East),690642,10.0
+2018,April,Flinders La-Swanston St (West),1451362,1.0
+2018,April,Southbank,1328318,2.0
+2018,April,Town Hall (West),1162057,3.0
+2018,April,Princes Bridge,1136327,4.0
+2018,April,Flinders Street Station Underpass,1129458,5.0
+2018,April,Flinders St-Elizabeth St (East),1123654,6.0
+2018,April,Melbourne Central,1002792,7.0
+2018,April,Spencer St-Collins St (North),967713,8.0
+2018,April,Bourke Street Mall (North),962898,9.0
+2018,April,The Arts Centre,886558,10.0
+2018,August,Flinders La-Swanston St (West),1342688,1.0
+2018,August,Southbank,1164656,2.0
+2018,August,Flinders St-Elizabeth St (East),1163597,3.0
+2018,August,Spencer St-Collins St (North),1074691,4.0
+2018,August,Town Hall (West),1034464,5.0
+2018,August,Bourke Street Mall (North),997765,6.0
+2018,August,Melbourne Central,971272,7.0
+2018,August,Princes Bridge,928151,8.0
+2018,August,The Arts Centre,794830,9.0
+2018,August,Melbourne Central-Elizabeth St (East),735170,10.0
+2018,December,Southbank,1520180,1.0
+2018,December,Town Hall (West),1225432,2.0
+2018,December,Bourke Street Mall (North),1147555,3.0
+2018,December,Flinders Street Station Underpass,1092166,4.0
+2018,December,Bourke Street Mall (South),968797,5.0
+2018,December,Spencer St-Collins St (North),935851,6.0
+2018,December,Princes Bridge,929359,7.0
+2018,December,Melbourne Central,858879,8.0
+2018,December,Melbourne Central-Elizabeth St (East),774632,9.0
+2018,December,Little Collins St-Swanston St (East),757379,10.0
+2018,February,Southbank,1369333,1.0
+2018,February,Flinders La-Swanston St (West),1358989,2.0
+2018,February,Flinders Street Station Underpass,1145147,3.0
+2018,February,Flinders St-Elizabeth St (East),1103283,4.0
+2018,February,Princes Bridge,1102898,5.0
+2018,February,Town Hall (West),1035079,6.0
+2018,February,Spencer St-Collins St (North),953082,7.0
+2018,February,Bourke Street Mall (North),908056,8.0
+2018,February,Melbourne Central,892607,9.0
+2018,February,The Arts Centre,850372,10.0
+2018,January,Flinders La-Swanston St (West),1455498,1.0
+2018,January,Southbank,1439788,2.0
+2018,January,Princes Bridge,1199066,3.0
+2018,January,Flinders St-Elizabeth St (East),1153177,4.0
+2018,January,Flinders Street Station Underpass,1110076,5.0
+2018,January,Town Hall (West),1084434,6.0
+2018,January,The Arts Centre,953696,7.0
+2018,January,Bourke Street Mall (North),892058,8.0
+2018,January,Spencer St-Collins St (North),891489,9.0
+2018,January,Melbourne Central,808699,10.0
+2018,July,Flinders La-Swanston St (West),1372753,1.0
+2018,July,Southbank,1213328,2.0
+2018,July,Flinders St-Elizabeth St (East),1153935,3.0
+2018,July,Spencer St-Collins St (North),1080523,4.0
+2018,July,Town Hall (West),1057816,5.0
+2018,July,Bourke Street Mall (North),1052863,6.0
+2018,July,Flinders Street Station Underpass,1002381,7.0
+2018,July,Princes Bridge,965085,8.0
+2018,July,Melbourne Central,940135,9.0
+2018,July,The Arts Centre,799666,10.0
+2018,June,Flinders La-Swanston St (West),1250034,1.0
+2018,June,Southbank,1082290,2.0
+2018,June,Flinders St-Elizabeth St (East),1062634,3.0
+2018,June,Bourke Street Mall (North),982267,4.0
+2018,June,Spencer St-Collins St (North),979066,5.0
+2018,June,Town Hall (West),969195,6.0
+2018,June,Flinders Street Station Underpass,918147,7.0
+2018,June,Princes Bridge,876728,8.0
+2018,June,Melbourne Central,846871,9.0
+2018,June,The Arts Centre,719852,10.0
+2018,March,Southbank,1552011,1.0
+2018,March,Flinders La-Swanston St (West),1543041,2.0
+2018,March,Flinders Street Station Underpass,1246582,3.0
+2018,March,Princes Bridge,1234106,4.0
+2018,March,Flinders St-Elizabeth St (East),1225208,5.0
+2018,March,Town Hall (West),1153946,6.0
+2018,March,Spencer St-Collins St (North),1081960,7.0
+2018,March,Melbourne Central,1076732,8.0
+2018,March,Bourke Street Mall (North),1044253,9.0
+2018,March,The Arts Centre,919971,10.0
+2018,May,Flinders La-Swanston St (West),1338695,1.0
+2018,May,Southbank,1134039,2.0
+2018,May,Flinders St-Elizabeth St (East),1094188,3.0
+2018,May,Spencer St-Collins St (North),1069017,4.0
+2018,May,Town Hall (West),1033314,5.0
+2018,May,Flinders Street Station Underpass,982157,6.0
+2018,May,Bourke Street Mall (North),975341,7.0
+2018,May,Melbourne Central,962540,8.0
+2018,May,Princes Bridge,850172,9.0
+2018,May,Melbourne Central-Elizabeth St (East),731234,10.0
+2018,November,Southbank,1319719,1.0
+2018,November,Flinders St-Elizabeth St (East),1185085,2.0
+2018,November,Town Hall (West),1073426,3.0
+2018,November,Spencer St-Collins St (North),1057705,4.0
+2018,November,Bourke Street Mall (North),1036162,5.0
+2018,November,Flinders Street Station Underpass,1008178,6.0
+2018,November,Melbourne Central,880104,7.0
+2018,November,Bourke Street Mall (South),773508,8.0
+2018,November,The Arts Centre,710981,9.0
+2018,November,Little Collins St-Swanston St (East),689273,10.0
+2018,October,Southbank,1376487,1.0
+2018,October,Flinders St-Elizabeth St (East),1232548,2.0
+2018,October,Flinders Street Station Underpass,1106982,3.0
+2018,October,Spencer St-Collins St (North),1092460,4.0
+2018,October,Town Hall (West),1071017,5.0
+2018,October,Bourke Street Mall (North),1014422,6.0
+2018,October,Bourke St Bridge,808879,7.0
+2018,October,The Arts Centre,767102,8.0
+2018,October,Melbourne Central-Elizabeth St (East),750189,9.0
+2018,October,Bourke Street Mall (South),745256,10.0
+2018,September,Flinders La-Swanston St (West),1262328,1.0
+2018,September,Southbank,1232917,2.0
+2018,September,Flinders St-Elizabeth St (East),1117157,3.0
+2018,September,Town Hall (West),1001739,4.0
+2018,September,Princes Bridge,997023,5.0
+2018,September,Flinders Street Station Underpass,961365,6.0
+2018,September,Bourke Street Mall (North),954591,7.0
+2018,September,Spencer St-Collins St (North),940607,8.0
+2018,September,Melbourne Central,907065,9.0
+2018,September,The Arts Centre,827217,10.0
+2019,April,Princes Bridge,1381018,1.0
+2019,April,Flinders St-Elizabeth St (East),1333821,2.0
+2019,April,Town Hall (West),1148257,3.0
+2019,April,The Arts Centre,1101262,4.0
+2019,April,Southbank,1019327,5.0
+2019,April,Melbourne Central,1014705,6.0
+2019,April,Bourke Street Mall (North),1005854,7.0
+2019,April,Spencer St-Collins St (North),964507,8.0
+2019,April,Flinders Street Station Underpass,953646,9.0
+2019,April,Bourke Street Mall (South),695109,10.0
+2019,August,Flinders St-Elizabeth St (East),1359268,1.0
+2019,August,Spencer St-Collins St (North),1101164,2.0
+2019,August,Town Hall (West),1064689,3.0
+2019,August,Flinders Street Station Underpass,1051024,4.0
+2019,August,Melbourne Central,981893,5.0
+2019,August,Princes Bridge,963378,6.0
+2019,August,Flinders la - Swanston St (West) Temp,961210,7.0
+2019,August,Bourke St Bridge,858475,8.0
+2019,August,Bourke Street Mall (North),838069,9.0
+2019,August,The Arts Centre,815103,10.0
+2019,December,Flinders La-Swanston St (West),1470360,1.0
+2019,December,Flinders St-Elizabeth St (East),1346535,2.0
+2019,December,Town Hall (West),1244392,3.0
+2019,December,Bourke Street Mall (North),1192463,4.0
+2019,December,Flinders Street Station Underpass,1187116,5.0
+2019,December,Princes Bridge,1068849,6.0
+2019,December,Southbank,977637,7.0
+2019,December,Spencer St-Collins St (North),958089,8.0
+2019,December,Bourke Street Mall (South),927155,9.0
+2019,December,Melbourne Central,911297,10.0
+2019,February,Southbank,1062057,1.0
+2019,February,Flinders Street Station Underpass,1028553,2.0
+2019,February,Spencer St-Collins St (North),993208,3.0
+2019,February,Town Hall (West),969427,4.0
+2019,February,Bourke Street Mall (North),881310,5.0
+2019,February,St Kilda Rd-Alexandra Gardens,710020,6.0
+2019,February,Bourke St Bridge,686229,7.0
+2019,February,The Arts Centre,681857,8.0
+2019,February,Melbourne Central-Elizabeth St (East),662439,9.0
+2019,February,Flinders St-Elizabeth St (East),645261,10.0
+2019,January,Southbank,1395117,1.0
+2019,January,Town Hall (West),1035715,2.0
+2019,January,Flinders Street Station Underpass,1015331,3.0
+2019,January,Spencer St-Collins St (North),910109,4.0
+2019,January,The Arts Centre,884885,5.0
+2019,January,Bourke Street Mall (North),871901,6.0
+2019,January,Princes Bridge,799066,7.0
+2019,January,Bourke Street Mall (South),704858,8.0
+2019,January,Melbourne Central-Elizabeth St (East),680089,9.0
+2019,January,St Kilda Rd-Alexandra Gardens,598964,10.0
+2019,July,Flinders St-Elizabeth St (East),1356376,1.0
+2019,July,Spencer St-Collins St (North),1087198,2.0
+2019,July,Town Hall (West),1042025,3.0
+2019,July,Flinders Street Station Underpass,1030584,4.0
+2019,July,Princes Bridge,1012406,5.0
+2019,July,Bourke Street Mall (North),895441,6.0
+2019,July,Melbourne Central,888107,7.0
+2019,July,The Arts Centre,868490,8.0
+2019,July,Bourke St Bridge,814354,9.0
+2019,July,Southbank,750612,10.0
+2019,June,Flinders St-Elizabeth St (East),1250112,1.0
+2019,June,Town Hall (West),960811,2.0
+2019,June,Bourke Street Mall (North),954095,3.0
+2019,June,Flinders Street Station Underpass,944617,4.0
+2019,June,Spencer St-Collins St (North),895342,5.0
+2019,June,Princes Bridge,879108,6.0
+2019,June,Melbourne Central,833350,7.0
+2019,June,The Arts Centre,744230,8.0
+2019,June,Southbank,682976,9.0
+2019,June,Melbourne Central-Elizabeth St (East),643533,10.0
+2019,March,Flinders St-Elizabeth St (East),1355988,1.0
+2019,March,Southbank,1183184,2.0
+2019,March,Town Hall (West),1117448,3.0
+2019,March,Spencer St-Collins St (North),1086273,4.0
+2019,March,Flinders Street Station Underpass,1080389,5.0
+2019,March,Melbourne Central,1069562,6.0
+2019,March,Bourke Street Mall (North),1009342,7.0
+2019,March,The Arts Centre,836962,8.0
+2019,March,Princes Bridge,751351,9.0
+2019,March,Bourke St Bridge,733140,10.0
+2019,May,Flinders St-Elizabeth St (East),1337425,1.0
+2019,May,Spencer St-Collins St (North),1098166,2.0
+2019,May,Flinders Street Station Underpass,1040433,3.0
+2019,May,Town Hall (West),1008211,4.0
+2019,May,Bourke Street Mall (North),979720,5.0
+2019,May,Princes Bridge,958937,6.0
+2019,May,Melbourne Central,892013,7.0
+2019,May,Southbank,799405,8.0
+2019,May,The Arts Centre,728549,9.0
+2019,May,Melbourne Central-Elizabeth St (East),675960,10.0
+2019,November,Flinders St-Elizabeth St (East),1311400,1.0
+2019,November,Flinders La-Swanston St (West),1123654,2.0
+2019,November,Flinders Street Station Underpass,1105507,3.0
+2019,November,Town Hall (West),1074747,4.0
+2019,November,Spencer St-Collins St (North),1054288,5.0
+2019,November,Bourke Street Mall (North),1037267,6.0
+2019,November,Melbourne Central,901523,7.0
+2019,November,The Arts Centre,774709,8.0
+2019,November,Southbank,770162,9.0
+2019,November,Bourke Street Mall (South),744945,10.0
+2019,October,Flinders St-Elizabeth St (East),1366031,1.0
+2019,October,Flinders Street Station Underpass,1151298,2.0
+2019,October,Spencer St-Collins St (North),1089498,3.0
+2019,October,Town Hall (West),1047186,4.0
+2019,October,Bourke Street Mall (North),1028681,5.0
+2019,October,Princes Bridge,1028104,6.0
+2019,October,Flinders La-Swanston St (West),982823,7.0
+2019,October,Melbourne Convention Exhibition Centre,965404,8.0
+2019,October,Melbourne Central,919197,9.0
+2019,October,Southbank,861390,10.0
+2019,September,Flinders St-Elizabeth St (East),1271923,1.0
+2019,September,Flinders Street Station Underpass,1008301,2.0
+2019,September,Spencer St-Collins St (North),984837,3.0
+2019,September,Town Hall (West),971314,4.0
+2019,September,Bourke Street Mall (North),943758,5.0
+2019,September,Princes Bridge,925437,6.0
+2019,September,Melbourne Central,869674,7.0
+2019,September,The Arts Centre,772680,8.0
+2019,September,Southbank,733141,9.0
+2019,September,Melbourne Central-Elizabeth St (East),672015,10.0
+2020,April,Flinders St-Elizabeth St (East),299425,1.0
+2020,April,Elizabeth St-La Trobe St (East),203304,2.0
+2020,April,Southbank,194288,3.0
+2020,April,Flinders La-Swanston St (West),156713,4.0
+2020,April,Spencer St-Collins St (North),147616,5.0
+2020,April,Town Hall (West),130659,6.0
+2020,April,QV Market-Elizabeth St (West),130433,7.0
+2020,April,Flinders Street Station Underpass,129411,8.0
+2020,April,Melbourne Central,127245,9.0
+2020,April,Melbourne Central-Elizabeth St (East),126345,10.0
+2020,August,Flinders St-Elizabeth St (East),254305,1.0
+2020,August,Elizabeth St-La Trobe St (East),180654,2.0
+2020,August,Flinders La-Swanston St (West),137467,3.0
+2020,August,Southbank,130420,4.0
+2020,August,Melbourne Convention Exhibition Centre,127307,5.0
+2020,August,Melbourne Central-Elizabeth St (East),124483,6.0
+2020,August,QV Market-Elizabeth St (West),115828,7.0
+2020,August,Flinders Street Station Underpass,98834,8.0
+2020,August,Spencer St-Collins St (North),98464,9.0
+2020,August,Town Hall (West),97813,10.0
+2020,December,Flinders La-Swanston St (West),974529,1.0
+2020,December,Town Hall (West),796734,2.0
+2020,December,Flinders St-Elizabeth St (East),758570,3.0
+2020,December,Princes Bridge,731645,4.0
+2020,December,Bourke Street Mall (North),714656,5.0
+2020,December,Southbank,580074,6.0
+2020,December,Bourke Street Mall (South),512225,7.0
+2020,December,Flinders Street Station Underpass,494740,8.0
+2020,December,Elizabeth St-La Trobe St (East),479460,9.0
+2020,December,Melbourne Central-Elizabeth St (East),477188,10.0
+2020,February,Flinders St-Elizabeth St (East),1209332,1.0
+2020,February,Flinders La-Swanston St (West),1174631,2.0
+2020,February,Flinders Street Station Underpass,1006221,3.0
+2020,February,Southbank,1002477,4.0
+2020,February,Princes Bridge,942341,5.0
+2020,February,Town Hall (West),905988,6.0
+2020,February,Spencer St-Collins St (North),888466,7.0
+2020,February,Bourke Street Mall (North),799619,8.0
+2020,February,Melbourne Central,741496,9.0
+2020,February,The Arts Centre,701412,10.0
+2020,January,Flinders La-Swanston St (West),1354171,1.0
+2020,January,Flinders St-Elizabeth St (East),1290280,2.0
+2020,January,Princes Bridge,1247383,3.0
+2020,January,Town Hall (West),1030896,4.0
+2020,January,Flinders Street Station Underpass,1019459,5.0
+2020,January,Spencer St-Collins St (North),935880,6.0
+2020,January,Southbank,910977,7.0
+2020,January,The Arts Centre,893317,8.0
+2020,January,Bourke Street Mall (North),892048,9.0
+2020,January,Melbourne Convention Exhibition Centre,771333,10.0
+2020,July,Flinders St-Elizabeth St (East),391523,1.0
+2020,July,Flinders La-Swanston St (West),290935,2.0
+2020,July,Elizabeth St-La Trobe St (East),287679,3.0
+2020,July,Town Hall (West),222709,4.0
+2020,July,Bourke Street Mall (North),216577,5.0
+2020,July,Melbourne Central-Elizabeth St (East),205960,6.0
+2020,July,Melbourne Central,193613,7.0
+2020,July,Spencer St-Collins St (North),182899,8.0
+2020,July,Princes Bridge,169971,9.0
+2020,July,Melbourne Convention Exhibition Centre,168589,10.0
+2020,June,Flinders St-Elizabeth St (East),557724,1.0
+2020,June,Flinders La-Swanston St (West),482013,2.0
+2020,June,Bourke Street Mall (North),424476,3.0
+2020,June,Town Hall (West),394408,4.0
+2020,June,Elizabeth St-La Trobe St (East),385350,5.0
+2020,June,Melbourne Central,352121,6.0
+2020,June,Melbourne Central-Elizabeth St (East),302881,7.0
+2020,June,State Library,277962,8.0
+2020,June,State Library-New,277962,8.0
+2020,June,Princes Bridge,274311,10.0
+2020,March,Flinders St-Elizabeth St (East),960996,1.0
+2020,March,Southbank,816192,2.0
+2020,March,Flinders La-Swanston St (West),813394,3.0
+2020,March,Flinders Street Station Underpass,660488,4.0
+2020,March,Town Hall (West),634135,5.0
+2020,March,Princes Bridge,595265,6.0
+2020,March,Spencer St-Collins St (North),586391,7.0
+2020,March,Bourke Street Mall (North),560956,8.0
+2020,March,Melbourne Central,560572,9.0
+2020,March,Elizabeth St-La Trobe St (East),532240,10.0
+2020,May,Flinders St-Elizabeth St (East),445791,1.0
+2020,May,Elizabeth St-La Trobe St (East),299323,2.0
+2020,May,Flinders La-Swanston St (West),284010,3.0
+2020,May,Bourke Street Mall (North),269797,4.0
+2020,May,Town Hall (West),245937,5.0
+2020,May,Southbank,240025,6.0
+2020,May,Melbourne Central,221395,7.0
+2020,May,Melbourne Central-Elizabeth St (East),212147,8.0
+2020,May,Spencer St-Collins St (North),210379,9.0
+2020,May,Flinders Street Station Underpass,190959,10.0
+2020,November,Flinders La-Swanston St (West),602980,1.0
+2020,November,Flinders St-Elizabeth St (East),558750,2.0
+2020,November,Bourke Street Mall (North),498611,3.0
+2020,November,Town Hall (West),490630,4.0
+2020,November,Melbourne Central,425215,5.0
+2020,November,Elizabeth St-La Trobe St (East),393471,6.0
+2020,November,Melbourne Central-Elizabeth St (East),366156,7.0
+2020,November,Princes Bridge,364502,8.0
+2020,November,Southbank,361771,9.0
+2020,November,Flinders Street Station Underpass,324248,10.0
+2020,October,Flinders St-Elizabeth St (East),357418,1.0
+2020,October,Flinders La-Swanston St (West),265184,2.0
+2020,October,Elizabeth St-La Trobe St (East),260093,3.0
+2020,October,Melbourne Central,200440,4.0
+2020,October,Town Hall (West),198010,5.0
+2020,October,Southbank,193587,6.0
+2020,October,Melbourne Convention Exhibition Centre,193419,7.0
+2020,October,Melbourne Central-Elizabeth St (East),190966,8.0
+2020,October,Princes Bridge,184081,9.0
+2020,October,Flinders Street Station Underpass,162612,10.0
+2020,September,Flinders St-Elizabeth St (East),276070,1.0
+2020,September,Elizabeth St-La Trobe St (East),195295,2.0
+2020,September,Flinders La-Swanston St (West),161884,3.0
+2020,September,Melbourne Convention Exhibition Centre,155748,4.0
+2020,September,Southbank,153717,5.0
+2020,September,Melbourne Central-Elizabeth St (East),135639,6.0
+2020,September,QV Market-Elizabeth St (West),125332,7.0
+2020,September,Melbourne Central,114151,8.0
+2020,September,Princes Bridge,112820,9.0
+2020,September,Town Hall (West),112765,10.0
+2021,April,Flinders La-Swanston St (West),1005610,1.0
+2021,April,Princes Bridge,759926,2.0
+2021,April,Town Hall (West),743653,3.0
+2021,April,Flinders St-Elizabeth St (East),664671,4.0
+2021,April,Bourke Street Mall (North),612164,5.0
+2021,April,Flinders Street Station Underpass,564776,6.0
+2021,April,The Arts Centre,563047,7.0
+2021,April,Elizabeth St-La Trobe St (East),510336,8.0
+2021,April,State Library,503175,9.0
+2021,April,State Library-New,503175,9.0
+2021,February,Flinders La-Swanston St (West),632923,1.0
+2021,February,Flinders St-Elizabeth St (East),517017,2.0
+2021,February,Princes Bridge,515746,3.0
+2021,February,Town Hall (West),456419,4.0
+2021,February,Elizabeth St-La Trobe St (East),371647,5.0
+2021,February,Flinders Street Station Underpass,355201,6.0
+2021,February,Bourke Street Mall (North),354240,7.0
+2021,February,The Arts Centre,317626,8.0
+2021,February,Melbourne Convention Exhibition Centre,309576,9.0
+2021,February,Melbourne Central-Elizabeth St (East),293808,10.0
+2021,January,Flinders La-Swanston St (West),746069,1.0
+2021,January,Princes Bridge,657882,2.0
+2021,January,Flinders St-Elizabeth St (East),639360,3.0
+2021,January,Town Hall (West),558664,4.0
+2021,January,Bourke Street Mall (North),459859,5.0
+2021,January,Southbank,433834,6.0
+2021,January,Elizabeth St-La Trobe St (East),425889,7.0
+2021,January,Flinders Street Station Underpass,412406,8.0
+2021,January,The Arts Centre,407448,9.0
+2021,January,Melbourne Central-Elizabeth St (East),361790,10.0
+2021,July,Flinders La-Swanston St (West),709195,1.0
+2021,July,Flinders St-Elizabeth St (East),587906,2.0
+2021,July,Princes Bridge,526115,3.0
+2021,July,Southbank,499399,4.0
+2021,July,Town Hall (West),483035,5.0
+2021,July,The Arts Centre,408728,6.0
+2021,July,Elizabeth St-La Trobe St (East),405882,7.0
+2021,July,Bourke Street Mall (North),397827,8.0
+2021,July,Flinders Street Station Underpass,363938,9.0
+2021,July,State Library,343527,10.0
+2021,July,State Library-New,343527,10.0
+2021,June,Flinders La-Swanston St (West),574050,1.0
+2021,June,Flinders St-Elizabeth St (East),484247,2.0
+2021,June,Southbank,426190,3.0
+2021,June,Town Hall (West),415985,4.0
+2021,June,Elizabeth St-La Trobe St (East),369319,5.0
+2021,June,Princes Bridge,358617,6.0
+2021,June,Bourke Street Mall (North),349759,7.0
+2021,June,State Library,309081,8.0
+2021,June,State Library-New,309081,8.0
+2021,June,Melbourne Central-Elizabeth St (East),295397,10.0
+2021,March,Flinders La-Swanston St (West),909361,1.0
+2021,March,Flinders St-Elizabeth St (East),676032,2.0
+2021,March,Princes Bridge,660726,3.0
+2021,March,Town Hall (West),650570,4.0
+2021,March,Bourke Street Mall (North),523660,5.0
+2021,March,Flinders Street Station Underpass,510400,6.0
+2021,March,Elizabeth St-La Trobe St (East),470084,7.0
+2021,March,State Library,462712,8.0
+2021,March,State Library-New,462712,8.0
+2021,March,The Arts Centre,458441,10.0
+2021,May,Flinders La-Swanston St (West),824586,1.0
+2021,May,Southbank,701947,2.0
+2021,May,Town Hall (West),611918,3.0
+2021,May,Elizabeth St-La Trobe St (East),477794,4.0
+2021,May,State Library-New,443760,5.0
+2021,May,The Arts Centre,411164,6.0
+2021,May,Melbourne Central-Elizabeth St (East),395912,7.0
+2021,May,Bourke St Bridge,327075,8.0
+2021,May,Bourke St - Spencer St (North),311382,9.0
+2021,May,Little Collins St-Swanston St (East),309709,10.0
