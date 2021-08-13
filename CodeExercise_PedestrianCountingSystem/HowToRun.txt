@@ -1,0 +1,26 @@
+- Scripting language : Python Pandas library
+
+- folder structure :
+
+   root(folder)
+   |
+   |_ PedestrianCountingSystem.py
+   |
+   |_ source_data(folder) 
+   |   |
+   |   |_ Pedestrian_Counting_System_-_Monthly__counts_per_hour_.csv 
+   |   |
+   |   |_ Pedestrian_Counting_System_-_Sensor_Locations.csv
+   |
+   |_ output(folder)
+  
+
+- How to run(Window):
+    1) Launch Anaconda Powershell Prompt or Command Prompt.
+    2) Move to the folder where PedestrianCountingSystem.py exists.       
+    3) Run the script
+       eg. C:\Users\{user_name}\Anaconda3\python.exe PedestrianCountingSystem.py
+
+      
+
+
